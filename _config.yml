@@ -1,5 +1,5 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Bloggity Blog
+description: Jekyll Blog
 
 url: http://alifrumin.github.io/long-haul
 baseurl: "/long-haul"
@@ -15,14 +15,14 @@ navigation:
  - title: Home
    url: /index.html
  - title: About
-   url: /about
+   url: /about.md
  - title: Contact
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: alifrumin
+   twitter: alifrumin
+   facebook: alifrumin@yahoo.com
+   email: alifrumin@gmail.com
 
 # google_analytics: "UA-58263416-1"
